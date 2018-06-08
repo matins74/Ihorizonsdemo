@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="accessibility_logout_prompt_overlay">Log out screen</string>
+    <string name="accessibility_loading_screen">Checking details</string>
+    <string name="accessibility_settings_failed_logout_overlay">Failed logout overlay</string>
+</resources>

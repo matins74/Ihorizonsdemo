@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/hd_blue</color>
+    <color name="colorPrimaryDark">@color/hd_blue</color>
+    <color name="colorAccent">@color/hd_red</color>
+
+    <color name="hd_red">#EF4641</color>
+    <color name="hd_dark_red">#B2EF4641</color>
+    <color name="hd_blue">#0066A1</color>
+    <color name="hd_black">#000000</color>
+    <color name="hd_dark_blue">#B20066A1</color>
+    <color name="hd_white">#FFFFFF</color>
+    <color name="hd_dark_white">#E5FFFFFF</color>
+    <color name="hd_text_grey">#51626f</color>
+    <color name="hd_white_alert">#F2F5F5F5</color>
+    <color name="hd_edit_text_unfocused">#33FFFFFF</color>
+    <color name="hd_background_grey">#F2F7Fa</color>
+    <color name="hd_separator_grey">#E5E5E5</color>
+    <color name="tab_text_color">#51626F</color>
+    <color name="hint_color">#42000000</color>
+    <color name="warning_color">#f4511e</color>
+    <color name="success_color">#009688</color>
+    <color name="notification_color">#D63B63</color>
+    <color name="notification_separator">#4CFFFFFF</color>
+    <color name="policy_brand_direct">@color/hd_blue</color>
+    <color name="policy_brand_premier">#EBAE24</color>
+    <color name="policy_brand_essential">#EF4641</color>
+    <color name="icon_arrow_color">#51626F</color>
+    <color name="icon_stroke_color">#00000000</color>
+</resources>
